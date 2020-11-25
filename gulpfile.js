@@ -18,7 +18,7 @@ var gulp = require( 'gulp' ),
   zip = require('gulp-zip');
 
 var config = {
-     nodeDir: './node_modules' 
+    nodeDir: './node_modules'
 }
 
 
