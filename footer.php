@@ -24,7 +24,7 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<?php wp_footer(); ?>
 <div id = 'particles-js'></div>
+<?php wp_footer(); ?>
 </body>
 </html>

@@ -32,7 +32,8 @@ var browserSyncWatchFiles = [
 // see: https://www.browsersync.io/docs/options/
 var browserSyncOptions = {
     watchTask: true,
-    proxy: "http://dev:8888/"
+    proxy: "http://dev:8888/",
+    open: false
 }
  
 // Default error handler
